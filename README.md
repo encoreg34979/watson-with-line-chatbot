@@ -5,6 +5,7 @@ watson assistant 參考文件 https://console.bluemix.net/apidocs/assistant-v2
 
 註冊heroku 
 heroku 參考文件 https://devcenter.heroku.com/articles/getting-started-with-python#introduction
+https://xiaosean.github.io/server/2018/04/11/Flask_Heroku/
 用python FLASK 佈署https 伺服器
 
 註冊line developer
