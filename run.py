@@ -15,11 +15,11 @@ from pprint import pprint
 
 
 class ChatBot:
-    line_access_tocken = 'dZD6cK/tb0+UUwApRdoRx++pzxPiCh+7Me3fFTnduf2tGCo3vX/zUY+e5cxz9miWYJhwPf2NbSonJX9wXXOy8zZKUR2QZJcK5hlbYo9C4sA+ZUQt+OQ7pW8bMqgBHBq+3L0E5Lp7PxV8s+mdZnMg5gdB04t89/1O/w1cDnyilFU='
-    line_channel_secret = 'b1be23e0bd3431d2d809e346743b75ac'
-    iam_apikey = 'i6qDBImCNiuXFiQb_Ho9EwBKwVmsoUD_pCl4fBlfT2Lg'
+    line_access_tocken = 'YOURTOCKEN'
+    line_channel_secret = 'YOURSECRET'
+    iam_apikey = 'YOURIBMAPIKEY'
     url = 'https://gateway.watsonplatform.net/assistant/api'
-    workspace_id='7eb5e40b-e90f-46c3-bcb9-1e53c0333b5f'
+    workspace_id='YOURIBMWORKSPACE'
     #URL:https://assistant-chat-us-south.watsonplatform.net/web/public/05044ecf-dc4a-41be-915f-42ee56503b4d
     msg_receive = ''
     msg_reply = ''
