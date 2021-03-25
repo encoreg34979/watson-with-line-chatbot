@@ -25,7 +25,7 @@ pymongo==3.7.2
 python-dateutil==2.6.1
 python-twitter==3.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 query-string==2018.11.20
 request==2018.11.20
 requests==2.20.1
